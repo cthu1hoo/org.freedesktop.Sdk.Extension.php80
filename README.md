@@ -28,7 +28,7 @@ Global composer installs are limited to the Flatpak they were installed in.
 #### Troubleshooting
 `/usr/bin/env: ‘php’: No such file or directory`
 
-Run `. /usr/lib/sdk/php80/enable.sh` or add `/usr/lib/sdk/php74/bin` to your $PATH.
+Run `. /usr/lib/sdk/php80/enable.sh` or add `/usr/lib/sdk/php80/bin` to your $PATH.
 
 #### Modules
 
